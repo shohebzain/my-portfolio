@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## Features
 
 * 👋 Professional introduction
-* 💼 Projects showcase
+* 💼 Projects showcase 
 * 🛠️ Technical skills
 * 📜 Certifications and achievements
 * 📄 Resume download
